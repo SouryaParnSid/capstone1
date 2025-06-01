@@ -1,0 +1,22 @@
+{
+  "name": "quizgenius",
+  "version": "1.0.0",
+  "description": "An innovative web application that transforms text or images into interactive quizzes using Google's Gemini 2.0 Flash API",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "quiz",
+    "gemini",
+    "ai",
+    "education",
+    "learning"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
