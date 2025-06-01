@@ -50,7 +50,7 @@
 
 ### Quick Start
 
-1. Visit [QuizGenius](https://quizgenius-vercel.app) or run locally
+1. Visit [QuizGenius](https://capstone1-delta.vercel.app/) or run locally
 2. Choose your input method (text or image)
 3. Set your desired quiz options
 4. Click "Generate Quiz" to create your personalized quiz
@@ -59,10 +59,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quizgenius.git
+git clone https://github.com/SouryaParnSid/capstone1.git
 
 # Navigate to the project directory
-cd quizgenius
+cd capstone1
 
 # Open in your browser
 # Simply open index.html in your browser or use a local server
@@ -140,8 +140,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Created with ❤️ by [Your Name]**
+**Created with ❤️ by Sourya Sarkar**
 
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/SouryaParnSid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
